@@ -1,0 +1,108 @@
+/* Importing Nunito font-family from google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap');
+
+/* styling the overall card div */
+.card {
+    max-width: 100%;
+    min-height: 100%;
+    display: flex;
+    text-align: left;
+    margin-top: 50px;
+    margin-left: 150px;
+    margin-right: 30px;
+}
+/* Styling of quote-text-wrap div */
+.quote-text-wrap {
+    width: 80%;
+    background-color: black;
+    padding: 25px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    transition-duration: 1s;
+    font-weight: bold;
+    border-radius: 8px;
+    
+}
+/* quote-text-wrap div stying on hover */
+.quote-text-wrap:hover {
+    background: white;
+    color: black;
+    font-weight: bolder;
+    box-shadow: 5px 5px 5px rgba(68, 68, 68, 0.6);
+}
+/* using the imported font in quote properties */
+.quote-text {
+    font-family: 'Nunito', sans-serif;
+    font-size: 20px;
+
+}
+/* styling download-button */
+.download-button {
+    background-color: white;
+    border: black;
+    color: black !important;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 12px;
+    cursor: pointer;
+    float: right;
+    transition-duration: 1s;
+    border-radius: 8px;
+    font-family: 'Nunito', sans-serif;
+    font-weight: bolder;
+}
+/* download-button style on hover */
+.download-button:hover {
+    background-color: grey !important;
+    box-shadow: 5px 5px 5px rgba(68, 68, 68, 0.6);
+}
+/* display the download icon with effect */
+.download-button:hover::after {
+    content: ' \f019';
+    font-family: FontAwesome;
+    max-width: 100%;
+    min-height: 100%;
+    
+}
+/* styling copy button */
+.copy-button {
+    background-color: white;
+    padding: 10px 15px;
+    color: black;
+    cursor: pointer;
+    border: black;
+    transition-duration: 1s;
+    float: right;
+    font-size: 12px;
+    border-radius: 8px;
+    font-family: 'Nunito', sans-serif;
+    font-weight: bolder;
+    position: relative;
+    right: 8px;
+
+}
+/* copy button style on hover */
+.copy-button:hover {
+    background-color: grey !important;
+    box-shadow: 5px 5px 5px rgba(68, 68, 68, 0.6);
+}
+
+.copy-button:hover::after {
+    content: ' \f0ea';
+    font-family: FontAwesome;
+    max-width: 100%;
+    min-height: 100%;
+    
+}
+/* for responsiveness */
+@media only screen and (max-width: 375px) {
+    .quote-text-wrap {
+      display: flex;
+    }
+    .download-button {
+      margin-bottom: 4px;
+    }
+  }
