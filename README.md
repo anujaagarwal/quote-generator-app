@@ -1,6 +1,8 @@
 Quote Generator App with Flask and Vue.js
 =====
 
+About the project
+----
 This application mainly fetces quotes from [this site](http://www.quotationspage.com/random.php) and then displays it in vue app beautifully with the following features
 
 - Copy to clipboard feature
@@ -8,22 +10,26 @@ This application mainly fetces quotes from [this site](http://www.quotationspage
 - loader, scollbar and button effects
 
 Overall Challenge faced
+--
 
 - Learning a new framework(vue.js) and implementing it end to end
-- Still facing issues while deployement and hosting
+
 
 Specific challenges
+--
 
 - wrapping my quotes in a canvas
-- work on button effects
+- Still facing issues while deployement and hosting
 
 Futute feature enhancements
+-----
 
-- Add social media buttons to directly share the quote over net.
-
+- Add social media buttons to directly share the quote over net
+- Read more feature in a long quote, but I fear it may degrade the user experience as the main purpose is to show quotes clearly.
 
 
 Learnings
+----
 
 - How vue.js works
 - canvas tag
