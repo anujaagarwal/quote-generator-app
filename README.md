@@ -67,15 +67,17 @@ $ source env/bin/activate
 ```sh
 (env)$ python app.py
 ```
-Navigate to [I fetch 10 quotes from the quotes site](http://localhost:5000/quote/random)
+Navigate to [This fetch quotes from the quotes site](http://localhost:5000/quote/random)
 
 
 Run the client-side Vue app in a different terminal window:
 ```sh
 $ cd client
-
+```
+```sh
 $ npm install
-
+```
+```sh
 $ npm run serve
 ```
 
