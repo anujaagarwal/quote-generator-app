@@ -30,7 +30,6 @@ This application mainly fetches random quotes(offset can be set by you) from [th
 
 - Learning a new framework(vue.js) and implementing it end to end
 
-
 # Specific challenges
 
 - wrapping my quotes in a canvas
@@ -40,7 +39,6 @@ This application mainly fetches random quotes(offset can be set by you) from [th
 
 - Add social media buttons to directly share the quote over net
 - Read more feature in a long quote, but I fear it may degrade the user experience as the main purpose is to show quotes clearly.
-
 
 # Learnings
 
