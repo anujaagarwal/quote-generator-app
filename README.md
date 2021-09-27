@@ -10,7 +10,7 @@ Quote Generator App with Flask and Vue.js
   * [Future feature enhancements](#future-feature-enhancements)
   * [Learnings](#learnings)
   * [Experience](#Experience)
-  * [STEPS TO GET STARTED](#STEPS-to-get-started)
+  * [Steps To Get Started](#STEPS-to-get-started)
   * [Here is what it looks like!](#Here-is-what-it-looks-like)
 
 
@@ -61,7 +61,7 @@ Quote Generator App with Flask and Vue.js
   Me: Follow the steps below
   ---
 
-  # STEPS TO GET STARTED
+  # Steps To Get Started
 
   Step 1:Fork/Clone
 
