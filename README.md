@@ -1,5 +1,5 @@
-Quote Generator App with Flask and Vue.js
-=====
+   Quote Generator App with Flask and Vue.js
+   =====
 
 # Table of Contents
 
