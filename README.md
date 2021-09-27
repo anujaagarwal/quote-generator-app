@@ -14,15 +14,15 @@ Quote Generator App with Flask and Vue.js
   * [Here is what it looks like!](#Here is what it looks like!)
 
 
-  ## About the project
+  # About the project
 
-  This application mainly fetches random quotes(offset can be set by you) from [this site](http://www.quotationspage.com/random.php) using Flask Api and then displays it in Vue app beautifully with the following features. 
+  This application mainly fetches random quotes(offset can be set by you) from [this site](http://www.quotationspage.com/random.php) using Flask Api and then       displays it in Vue app beautifully with the following features. 
 
   - Copy to clipboard feature
   - Download button to get quote.png file of that quote
   - loader, scollbar, gifs and button effects
 
-  ## About the project structure
+  # About the project structure
 
   - Client folder in the project has all the frontend coding and backend coding is in server folder.
 
@@ -30,23 +30,23 @@ Quote Generator App with Flask and Vue.js
 
   - Learning a new framework(vue.js) and implementing it end to end
 
-  ## Specific challenges
+  # Specific challenges
 
   - wrapping my quotes in a canvas
   - Still facing issues while deployement and hosting
 
-  ## Future feature enhancements
+  # Future feature enhancements
 
   - Add social media buttons to directly share the quote over net
   - Read more feature in a long quote, but I fear it may degrade the user experience as the main purpose is to show quotes clearly.
 
-  ## Learnings
+  # Learnings
 
   - How vue.js works
   - canvas tag
   - How flask and vue can be connected
 
-  ## Experience
+  # Experience
 
   - Started loving Vue.js
   - So, fast to learn and lightweight
@@ -61,7 +61,7 @@ Quote Generator App with Flask and Vue.js
   Me: Follow the steps below
   ---
 
-  ## STEPS TO GET STARTED
+  # STEPS TO GET STARTED
 
   Step 1:Fork/Clone
 
@@ -113,6 +113,6 @@ Quote Generator App with Flask and Vue.js
 
   Navigate to [Yeah! you can see my web app](http://localhost:8080)
 
-  ## Here is what it looks like!
+  # Here is what it looks like!
   ![](project.gif)
 
