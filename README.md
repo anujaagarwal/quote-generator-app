@@ -3,15 +3,15 @@ Quote Generator App with Flask and Vue.js [![NPM version](https://img.shields.io
 
 ## Table of Contents
 
-- [About the project](#About the project)
-- [About the project structure](#About the project structure)
-- [Overall Challenge faced](#Overall Challenge faced)
-- [Specific challenges](#Specific challenges)
-- [Futute feature enhancements](#Futute feature enhancements)
-- [Learnings](#Learnings)
-- [Experience](#Experience)
-- [STEPS TO GET STARTED](#STEPS TO GET STARTED)
-- [Here is what it looks like!](#Here is what it looks like!)
+* [About the project](#About the project)
+* [About the project structure](#About the project structure)
+* [Overall Challenge faced](#Overall Challenge faced)
+* [Specific challenges](#Specific challenges)
+* [Futute feature enhancements](#Futute feature enhancements)
+* [Learnings](#Learnings)
+* [Experience](#Experience)
+* [STEPS TO GET STARTED](#STEPS TO GET STARTED)
+* [Here is what it looks like!](#Here is what it looks like!)
 
 
 ## About the project
