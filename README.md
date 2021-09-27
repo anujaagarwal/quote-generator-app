@@ -3,15 +3,15 @@ Quote Generator App with Flask and Vue.js
 
   # Table of Contents
 
-  * [About the project](#about)
-  * [About the project structure](#structure)
-  * [Overall Challenge faced](#faced)
-  * [Specific challenges](#Specific)
-  * [Future feature enhancements](#enhancements)
+  * [About the project](#about-the-project)
+  * [About the project structure](#about-the-project-structure)
+  * [Overall Challenge faced](#overall-challenge-faced)
+  * [Specific challenges](#Specific-challenges)
+  * [Future feature enhancements](#future-feature-enhancements)
   * [Learnings](#learnings)
   * [Experience](#Experience)
-  * [STEPS TO GET STARTED](#STEPS)
-  * [Here is what it looks like!](#Here)
+  * [STEPS TO GET STARTED](#STEPS-to-get-started)
+  * [Here is what it looks like!](#Here-is-what-it-looks-like)
 
 
   # About the project
