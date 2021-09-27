@@ -52,7 +52,9 @@ Step 1:Fork/Clone
 
 Run the server-side Flask app in one terminal window:
 
-> $ cd server
+```sh
+$ cd server
+```
 
 > $ python3.9 -m venv env
 
