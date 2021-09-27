@@ -4,7 +4,7 @@
 # Table of Contents
 
   * [About the project](#about-the-project)
-  * [About the project structure](#about-the-project-structure)
+  * [About the folder structure](#about-the-folder-structure)
   * [Overall Challenge faced](#overall-challenge-faced)
   * [Specific challenges](#Specific-challenges)
   * [Future feature enhancements](#future-feature-enhancements)
@@ -22,7 +22,7 @@
   - Download button to get quote.png file of that quote
   - loader, scollbar, gifs and button effects
 
-  # About the project structure
+  # About the folder structure
 
   - Client folder in the project has all the frontend coding and backend coding is in server folder.
 
