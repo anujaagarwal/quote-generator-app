@@ -59,3 +59,7 @@ Run the client-side Vue app in a different terminal window:
 
 Navigate to [Yeah! you can see my web app](http://localhost:8080)
 
+Here is what it looks like!
+-----
+![](project.gif)
+
