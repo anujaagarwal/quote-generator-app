@@ -3,11 +3,11 @@ Quote Generator App with Flask and Vue.js
 
 About the project
 ----
-This application mainly fetces quotes from [this site](http://www.quotationspage.com/random.php) and then displays it in vue app beautifully with the following features
+This application mainly fetches quotes from [this site](http://www.quotationspage.com/random.php) and then displays it in vue app beautifully with the following features
 
 - Copy to clipboard feature
 - Download button to get quote.png file of that quote
-- loader, scollbar and button effects
+- loader, scollbar, gifs and button effects
 
 Overall Challenge faced
 --
