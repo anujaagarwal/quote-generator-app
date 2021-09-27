@@ -30,7 +30,7 @@ export default {
   props: { quote: String, classname: String, order: Number },
   data() {
     return {
-      // copiedQuote: '',
+      
     };
   },
   methods: {
