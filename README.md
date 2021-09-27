@@ -8,7 +8,7 @@ Quote Generator App with Flask and Vue.js
   * [Overall Challenge faced](#Overall Challenge faced)
   * [Specific challenges](#Specific challenges)
   * [Future feature enhancements](#Future feature enhancements)
-  * [Learnings](#Learnings)
+  * [Learnings](#learnings)
   * [Experience](#Experience)
   * [STEPS TO GET STARTED](#STEPS TO GET STARTED)
   * [Here is what it looks like!](#Here is what it looks like!)
