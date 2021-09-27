@@ -7,10 +7,10 @@ Quote Generator App with Flask and Vue.js
   * [About the project structure](#About the project structure)
   * [Overall Challenge faced](#Overall Challenge faced)
   * [Specific challenges](#Specific challenges)
-  * [Future feature enhancements](#Future feature enhancements)
+  * [Future feature enhancements](# Future feature enhancements)
   * [Learnings](#learnings)
   * [Experience](#Experience)
-  * [STEPS TO GET STARTED](#STEPS TO GET STARTED)
+  * [STEPS TO GET STARTED](#STEPS)
   * [Here is what it looks like!](#Here is what it looks like!)
 
 
