@@ -7,7 +7,7 @@ Quote Generator App with Flask and Vue.js
   * [About the project structure](#About the project structure)
   * [Overall Challenge faced](#Overall Challenge faced)
   * [Specific challenges](#Specific challenges)
-  * [Futute feature enhancements](#Futute feature enhancements)
+  * [Future feature enhancements](#Future feature enhancements)
   * [Learnings](#Learnings)
   * [Experience](#Experience)
   * [STEPS TO GET STARTED](#STEPS TO GET STARTED)
@@ -35,7 +35,7 @@ Quote Generator App with Flask and Vue.js
   - wrapping my quotes in a canvas
   - Still facing issues while deployement and hosting
 
-  ## Futute feature enhancements
+  ## Future feature enhancements
 
   - Add social media buttons to directly share the quote over net
   - Read more feature in a long quote, but I fear it may degrade the user experience as the main purpose is to show quotes clearly.
