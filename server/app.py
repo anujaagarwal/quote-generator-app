@@ -33,7 +33,6 @@ def getRandomQuotes():
             list.append(dict)
             key = key+1
     # can't directly return list in flask
-    print(list)
     return { 'items': list, 'success' : True }
 if __name__ == '__main__':
     app.run(host='0.0.0.0', debug=True)
