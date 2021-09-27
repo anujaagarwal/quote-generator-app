@@ -33,7 +33,6 @@
   # Specific challenges
 
   - wrapping my quotes in a canvas
-  - Still facing issues while deployement and hosting
 
   # Future feature enhancements
 
@@ -49,7 +48,7 @@
   # Experience
 
   - Started loving Vue.js
-  - So, fast to learn and lightweight
+  - Really Fast to learn
   - Really enjoyed the challenges faced and learning part
 
   Friend: Your project looks cool!
