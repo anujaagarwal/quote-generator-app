@@ -3,7 +3,7 @@ Quote Generator App with Flask and Vue.js
 
   # Table of Contents
 
-  * [About the project](#About the project)
+  * [About the project](#about the project)
   * [About the project structure](#About the project structure)
   * [Overall Challenge faced](#Overall Challenge faced)
   * [Specific challenges](#Specific challenges)
