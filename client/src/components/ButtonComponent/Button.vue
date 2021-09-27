@@ -1,4 +1,4 @@
-<!----Button Component----->
+<!----Button Component---->
 <template>
   <div>
     <button :class="classname" v-on:click="handleClick" :disabled="disabled">{{buttonText}}</button>
