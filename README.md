@@ -1,7 +1,7 @@
 Quote Generator App with Flask and Vue.js
 =====
 
-  # Table of Contents
+# Table of Contents
 
   * [About the project](#about-the-project)
   * [About the project structure](#about-the-project-structure)
