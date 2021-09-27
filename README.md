@@ -3,13 +3,16 @@ Quote Generator App with Flask and Vue.js
 
 About the project
 ----
-This application mainly fetches quotes from [this site](http://www.quotationspage.com/random.php) using Flask Api and then displays it in Vue app beautifully with the following features. 
+This application mainly fetches random quotes(offset can be set by you) from [this site](http://www.quotationspage.com/random.php) using Flask Api and then displays it in Vue app beautifully with the following features. 
 
 - Copy to clipboard feature
 - Download button to get quote.png file of that quote
 - loader, scollbar, gifs and button effects
 
-Client folder in the project has all the frontend coding and backend coding is in server folder.
+About the project structure
+-----
+
+- Client folder in the project has all the frontend coding and backend coding is in server folder.
 
 Overall Challenge faced
 --
@@ -37,7 +40,13 @@ Learnings
 - canvas tag
 - How flask and vue can be connected
 
-Want to use this project?
+Friend: Your project looks cool!
+----
+Me: Want to use this project and contribute in it?
+-----
+Friend: Yes!
+-----
+Me: Follow the steps below
 -----
 
 Step 1:Fork/Clone
