@@ -55,25 +55,29 @@ Run the server-side Flask app in one terminal window:
 ```sh
 $ cd server
 ```
-
-> $ python3.9 -m venv env
-
-> $ source env/bin/activate
-
-> (env)$ pip install -r requirements.txt
-
-> (env)$ python app.py
-
+```sh
+$ python3.9 -m venv env
+```
+```sh
+$ source env/bin/activate
+```
+```
+(env)$ pip install -r requirements.txt
+```
+```sh
+(env)$ python app.py
+```
 Navigate to [I fetch 10 quotes from the quotes site](http://localhost:5000/quote/random)
 
 
 Run the client-side Vue app in a different terminal window:
+```sh
+$ cd client
 
-> $ cd client
+$ npm install
 
-> $ npm install
-
-> $ npm run serve
+$ npm run serve
+```
 
 Navigate to [Yeah! you can see my web app](http://localhost:8080)
 
