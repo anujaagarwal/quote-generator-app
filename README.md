@@ -40,14 +40,14 @@ Learnings
 - canvas tag
 - How flask and vue can be connected
 
-> Friend: Your project looks cool!
-
-> Me: Want to use this project and contribute in it?
-
-> Friend: Yes!
-
-> Me: Follow the steps below
-
+Friend: Your project looks cool!
+---
+Me: Want to use this project and contribute in it?
+---
+Friend: Yes!
+---
+Me: Follow the steps below
+---
 Step 1:Fork/Clone
 
 Run the server-side Flask app in one terminal window:
