@@ -119,5 +119,5 @@
    
   # Working site link
   ```sh
-   https://vue-quote-generator.netlify.app/
+  https://quote-vue-app.netlify.app/
   ```
