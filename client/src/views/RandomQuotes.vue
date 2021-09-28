@@ -46,7 +46,7 @@ export default {
       this.loading = true;
       this.quotes = [];
       this.err = '';
-      const path = `${config.apiUrl}/quotes/random?offset=10`;
+      const path = `${config.apiUrl}/quotes/random?limit=10`;
       axios.get(path)
         .then((res) => {
           if (res.data.success) {
