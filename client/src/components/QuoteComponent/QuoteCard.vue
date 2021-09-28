@@ -39,11 +39,11 @@ into png file with given properties in the task. */
       const canvas = document.createElement('canvas');
       const ctx = canvas.getContext('2d');
       canvas.width = 1080;
-      canvas.height = 250;
+      canvas.height = 350;
       const maxWidth = 400;
       const lineHeight = 25;
-      const x = 500;
-      const y = 40;
+      const x = 550;
+      const y = 80;
       ctx.font = '800 18px Arial';
       ctx.textAlign = 'center';
       ctx.fillStyle = 'white';
