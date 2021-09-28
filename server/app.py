@@ -14,9 +14,9 @@ CORS(app, resources={r'/*': {'origins': '*'}})
 # Making GET request
 @app.route('/quotes/random', methods=['GET'])
 def getRandomQuotes():
-    offset = int(request.args.get('offset'))
-    if offset < 1 or offset > 100:
-        return { 'error' : 'Illegal offset!' , 'success' : False }
+    offset = int(request.args.get('limit', 10))
+    if limit < 0 or limit > 100:
+        return { 'error' : 'Illegal limit!' , 'success' : False }
     # URL given in the task to get random quotes
     URL = "http://www.quotationspage.com/random.php" 
     req = requests.get(URL)
@@ -26,7 +26,7 @@ def getRandomQuotes():
     # storing all the <a> tags inside quotes
     quotes = soup.find_all('dt', {'class' : 'quote'})
     for quote in quotes:
-        if len(list) < offset:
+        if len(list) < limit:
             dict = {}
             dict['id'] = key
             dict['message'] = quote.a.text
@@ -34,5 +34,3 @@ def getRandomQuotes():
             key = key+1
     # can't directly return list in flask
     return { 'items': list, 'success' : True }
-if __name__ == '__main__':
-    app.run(host='0.0.0.0', debug=True)
