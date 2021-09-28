@@ -1,3 +1,3 @@
 export default {
-  apiUrl: 'http://localhost:5000',
+  apiUrl: 'https://flask-api-anuja.herokuapp.com',
 };
