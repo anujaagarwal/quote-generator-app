@@ -12,6 +12,10 @@ class="loader-style"/>
       <div class="error-handle">{{ err }}</div>
       <QuoteComponent classname='full-list' v-for="quote in quotes" :key='quote.id'
     :quote='quote.message' :order='quote.id'/>
+      <footer v-if="quotes.length>1" class="creator">
+        <p>Creator: Anuja Agarwal<br>
+        <a href="mailto:anujagrazzel@gmail.com" style="color: black">anujagrazzel@gmail.com</a></p>
+      </footer>
   </div>
 </template>
 <script>
