@@ -100,7 +100,9 @@
 /* for responsiveness */
 @media only screen and (max-width: 375px) {
     .quote-text-wrap {
-      display: flex;
+      min-width: 250px;
+      position: relative;
+      right: 150px;
     }
     .download-button {
       margin-bottom: 4px;
