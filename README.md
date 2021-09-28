@@ -38,6 +38,7 @@
 
   - Add social media buttons to directly share the quote over net
   - Read more feature in a long quote, but I fear it may degrade the user experience as the main purpose is to show quotes clearly.
+  - Getting random quotes which is mapped with your favourite author and also linked to your favourite subject. Like a filter functionality.
 
   # Learnings
 
