@@ -98,7 +98,7 @@
     
 }
 /* for responsiveness */
-@media only screen and (max-width: 375px) {
+@media only screen and (max-width: 575px) {
     .quote-text-wrap {
       min-width: 250px;
       position: relative;
