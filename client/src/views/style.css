@@ -98,6 +98,12 @@ img {
     font-weight: bolder;
 
 }
+/* styling of footer */
+.creator {
+    color: black;
+    font-family: 'Nunito', sans-serif;
+    font-size: 12px;
+}
 /* styling scrollbar */
 ::-webkit-scrollbar {
     width: 8px;
