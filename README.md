@@ -6,7 +6,6 @@
   * [About the project](#about-the-project)
   * [About the folder structure](#about-the-folder-structure)
   * [Overall Challenge faced](#overall-challenge-faced)
-  * [Specific challenges](#Specific-challenges)
   * [Future feature enhancements](#future-feature-enhancements)
   * [Learnings](#learnings)
   * [Experience](#Experience)
@@ -30,10 +29,7 @@
   # Overall Challenge faced
 
   - Learning a new framework(vue.js) and implementing it end to end
-
-  # Specific challenges
-
-  - wrapping my quotes in a canvas
+    within a week.
 
   # Future feature enhancements
 
